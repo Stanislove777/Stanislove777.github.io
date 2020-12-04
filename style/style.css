@@ -20,3 +20,29 @@ header {
 .headerSiteName {
 	font-size: 33px;
 }
+
+body {
+	margin-top: 10px;
+	font-family: Helvetica;
+	font-weight: bold;
+}
+
+.desc {
+	display: flex;
+	justify-content: space-around;
+	font-size: 20px;
+}
+
+.desc__en {
+	text-align: right;
+	width: 500px;
+}
+
+.desc__ru {
+	text-align: left;
+	width: 500px;
+}
+
+canvas {
+	background-color: black;
+}
