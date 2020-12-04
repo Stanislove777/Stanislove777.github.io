@@ -29,20 +29,23 @@ body {
 
 .desc {
 	display: flex;
-	justify-content: space-around;
+	justify-content: center;
+	margin-top: 20px;
 	font-size: 20px;
 }
 
 .desc__en {
 	text-align: right;
+	margin-right: 20px;
 	width: 500px;
 }
 
 .desc__ru {
 	text-align: left;
+	margin-left: 20px;
 	width: 500px;
 }
 
-canvas {
+#stick {
 	background-color: black;
 }
