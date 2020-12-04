@@ -36,12 +36,14 @@ body {
 
 .desc__en {
 	text-align: right;
+	margin-top: 40px;
 	margin-right: 20px;
 	width: 500px;
 }
 
 .desc__ru {
 	text-align: left;
+	margin-top: 40px;
 	margin-left: 20px;
 	width: 500px;
 }
