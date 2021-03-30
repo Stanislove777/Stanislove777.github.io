@@ -1,0 +1,35 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+/* Style Tab links */
+.tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 20%;
+}
+
+.tablink:hover {
+    background-color: rgb(53, 174, 211);
+}
+
+/* Style Tab Content */
+.tabcontent {
+    color: black;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+}
+
+#About {background-color: white;}
+#Skills {background-color: white;}
+#Projects {background-color: white;}
+#Learning_process {background-color: white;}
+#Book_Library {background-color: white;}
