@@ -16,9 +16,16 @@ p {
     font-weight: 400;
 }
 
+img {
+    height: 100%;
+    width: 100%;
+    max-width: 720px;
+}
+
 @media (max-width: 768px) { 
-    .card-img-top {
-        height: 100px;
-        width: 300px;
+    img {
+        height: auto;
+        width: 100%;
+        max-width: 320px;
     }
 }
