@@ -15,3 +15,10 @@ p {
     margin-left: 20px;
     font-weight: 400;
 }
+
+@media (max-width: 768px) { 
+    .card-img-top {
+        height: 100px;
+        width: 300px;
+    }
+}
