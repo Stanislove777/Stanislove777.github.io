@@ -1,0 +1,17 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.title {
+    font-weight: 700;
+    margin-left: 40px;
+}
+
+.card-title {
+    margin-left: 40px;
+}
+
+p {
+    margin-left: 20px;
+    font-weight: 400;
+}
